@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T13:30:25.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Z0zjaqoa-JyzHfLEqI4N" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-10T13:30:37.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="-n8mtAAvH725hBJy-4NN" version="20.5.3" type="github">
   <diagram id="33QZZ4nBsRrXYEMg8t2g" name="Page-1">
     <mxGraphModel dx="1866" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ojgTtji4bl1sdhofvII4-29" value="Kijelentkezés" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="558" y="1130" width="140" height="70" as="geometry" />
+          <mxGeometry x="558" y="1126" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ojgTtji4bl1sdhofvII4-30" value="Új jegyzet" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="812" y="769" width="109" height="34" as="geometry" />
