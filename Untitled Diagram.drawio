@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T09:47:46.365Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="S7zpytWrz_cntH-vr_UT" version="20.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-10T09:48:37.552Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ZXAq3-tyC8pSIV9w3dQR" version="20.5.3" type="github" pages="3">
   <diagram id="1DbBrXok-eayOASBbbNL" name="Use Case">
-    <mxGraphModel dx="1899" dy="1144" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1900" dy="1144" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,7 +95,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="071-huccTZOf_0CQq88L" name="Osztály diagramm">
-    <mxGraphModel dx="1899" dy="1144" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1900" dy="1144" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -220,15 +220,15 @@
         </mxCell>
         <mxCell id="S5hkHStUAloZD1-xfzC3-13" value="Fizetés" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=1.4;exitY=0.205;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry x="-0.1149" y="11" width="80" relative="1" as="geometry">
-            <mxPoint x="564" y="410" as="sourcePoint" />
-            <mxPoint x="730.5" y="410" as="targetPoint" />
+            <mxPoint x="564" y="407" as="sourcePoint" />
+            <mxPoint x="730.5" y="407" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S5hkHStUAloZD1-xfzC3-14" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="731.5" y="443.5" as="sourcePoint" />
-            <mxPoint x="560" y="444" as="targetPoint" />
+            <mxPoint x="731.5" y="446.5" as="sourcePoint" />
+            <mxPoint x="560" y="447" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S5hkHStUAloZD1-xfzC3-17" value="Elszámolás" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=1.4;exitY=0.205;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
